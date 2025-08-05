@@ -1,3 +1,4 @@
+### ✅ Setup Instructions
 1. **Dowload the folder ZIP**
 2. **Navigate to the frontend directory**
  -cd beach-frontend-new-main
