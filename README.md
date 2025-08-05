@@ -1,5 +1,3 @@
-<img width="1902" height="860" alt="image" src="https://github.com/user-attachments/assets/232e7873-8c44-43c5-89c3-13311a069e41" />### ✅ Setup Instructions
-
 1. **Dowload the folder ZIP**
 2. **Navigate to the frontend directory**
  -cd beach-frontend-new-main
