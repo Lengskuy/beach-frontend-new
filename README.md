@@ -30,3 +30,7 @@ Backend returns the data fetch to frontend and automatically create a beach card
 
 🔮 Future Improvements
 In the future, the app can be enhanced by integrating live sensors to replace simulated data with real-time readings such as temperature, wave height, and crowd levels. It can also include AI-based crowd prediction by analyzing historical trends to estimate busy periods. A notification system could be added, allowing users to receive alerts via push notifications or SMS about dangerous conditions. Map integration (e.g., Google Maps or Leaflet) can provide visual context for beach locations and statuses. Additionally, the app can be improved to fetch condition data directly from a database, enabling easier integration with real-time data sources
+
+!!! BELOW IS THE DEPLOYMENT LINK !!!
+https://beach-frontend-testing.onrender.com
+
