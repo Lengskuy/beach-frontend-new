@@ -34,4 +34,4 @@ In the future, the app can be enhanced by integrating live sensors to replace si
 !!! BELOW IS THE DEPLOYMENT LINK !!!
 https://beach-frontend-testing.onrender.com
 
-Notes:You need to wait around 10-30 seconds for the backend to fetch the data in the background then you will see the beach data appeared
+Notes:Set all the filter to default and you need to wait around 10-30 seconds for the backend to fetch the data in the background then you will see the beach data appeared.
